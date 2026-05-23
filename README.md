@@ -137,20 +137,6 @@ Centralized HR management platform for attendance, onboarding, leave tracking, a
 
 ---
 
-## 📈 GitHub Stats
-
-![Murali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murali-Allu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-Allu&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Murali-Allu&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/murali-allu-b645b9178/
